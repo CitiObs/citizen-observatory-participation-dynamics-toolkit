@@ -22,4 +22,3 @@ layout:
 
 Welcome to the CitiObs Citizen Observatory Participation Dynamics Toolkit! The CO Participation Dynamics Toolkit is here to support your CO in building and sustaining strong stakeholder relationships. It offers practical resources to address conflicts, strengthen cooperation, and foster trust across the groups involved.​
 
-###
